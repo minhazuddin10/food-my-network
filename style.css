@@ -1,6 +1,6 @@
 
 h1{
-    font-size: 25px;
+    font-size: 30px;
     text-align:unset;
     
 }
@@ -59,8 +59,8 @@ h1{
 
 .workpage{
     width: 280px;
-    height: 300px;
-    box-shadow: 10px 10px 10px 10px  gray;
+    height: 335px;
+    box-shadow: 20px 20px 20px 20px  gray;
     margin: 35px;
     border-radius: 15px;
     float: left;
@@ -94,7 +94,7 @@ h1{
     height: 135px;
     border-radius: 20px;
     margin-left: 320px;
-    box-shadow: 10px 10px 45px gray;
+    box-shadow: 30px 30px 30px 30px gray;
 }
 .left1{
     float: left;
